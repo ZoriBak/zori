@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "MyReactNativeApp",
+    "slug": "myreactnativeapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png", 
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.yourname.myreactnativeapp"
+    },
+    "android": {
+      "package": "com.yourname.myreactnativeapp"
+    }
+  }
+}
+
